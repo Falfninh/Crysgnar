@@ -1,3 +1,9 @@
+= Crysgnar
+
+The Crysgnar project is a Freedoom fork who have the goal to be a
+standalone first shooter game for the Doom engine.
+You can see below all those who need to know about Freedoom.
+
 = Freedoom
 
 The Freedoom project aims to create a complete, free content first
